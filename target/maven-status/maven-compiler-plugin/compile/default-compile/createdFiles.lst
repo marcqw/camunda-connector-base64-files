@@ -1,0 +1,4 @@
+io/camunda/example/dto/MyConnectorRequest.class
+io/camunda/example/dto/Authentication.class
+io/camunda/example/MyConnectorFunction.class
+io/camunda/example/dto/MyConnectorResult.class
