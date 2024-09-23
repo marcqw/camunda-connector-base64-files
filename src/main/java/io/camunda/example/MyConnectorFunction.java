@@ -42,7 +42,6 @@ public class MyConnectorFunction implements OutboundConnectorFunction {
   }
 
   private MyConnectorResult executeConnector(final MyConnectorRequest connectorRequest) {
-      // TODO: implement connector logic
       String filePath = connectorRequest.filePath();
       LOGGER.info("File content encoded to Base64");
       try {
